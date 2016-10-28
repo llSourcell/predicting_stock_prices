@@ -31,7 +31,7 @@ You'll find the challenge template in this repo labeled `challenge.py`. The inst
 
 1. Use the Tweepy library to retrieve tweets about a company stock from twitter
 2. Use the TextBlob library to classify those tweets as either positive or negative given a threshold you define.
-3. If the majority of tweets are positive, then use the Keras library to build a neural network that predicts the next stock price given a dataset of past stock prices.
+3. If the majority of tweets are positive, then use the Keras library to build a neural network that predicts the next stock price given a dataset of past stock prices. [This](http://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/) tutorial may be useful to you. 
 
 If you want to use your own template, that's fine too. Submit your code in the comments section and I'll announce the winner in
 the next video. Good luck!
