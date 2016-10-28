@@ -38,9 +38,11 @@ def get_data(filename):
 			dates.append(int(row[0].split('-')[0]))
 			prices.append(float(row[1]))
 	return
-get_data('aapl.csv')
 
-#Step 5 In this function, build your neural network model using Keras, train it, then have it predict the price 
+#Step 5 reference your CSV file here
+get_data('your_company_stock_data.csv')
+
+#Step 6 In this function, build your neural network model using Keras, train it, then have it predict the price 
 #on a given day. We'll later print the price out to terminal.
 def predict_prices(dates, prices, x):
 
