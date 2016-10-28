@@ -25,7 +25,7 @@ Once you have your dependencies installed via pip, run the demo script in termin
 python demo.py
 ```
 
-##Challenge Usage
+##Challenge 
 
 You'll find the challenge template in this repo labeled `challenge.py`. The instructions are 
 
