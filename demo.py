@@ -11,8 +11,8 @@ plt.switch_backend('newbackend')
 dates = []
 prices = []
 
-def get_data(filename):
-	with open(filename, 'r') as csvfile:
+def get_data(nke.csv):
+	with open(nke.csv, 'r') as csvfile:
 		csvFileReader = csv.reader(csvfile)
 		next(csvFileReader)	# skipping column names
 		for row in csvFileReader:
