@@ -3,7 +3,7 @@ Stock Prediction Challenge by @Sirajology on [Youtube](https://youtu.be/SSu00IRR
 
 ##Overview
 
-This is the code for the Stock Price Prediction challenge for 'Learn Python for Data Science #3' by @Sirajology on [YouTube](https://youtu.be/SSu00IRRraY). The code uses the [scikit-learn](https://github.com/scikit-learn/scikit-learn) machine learning library to train a [support vector regression](https://en.wikipedia.org/wiki/Support_vector_machine) on a stock price dataset from [Google Finance](https://en.wikipedia.org/wiki/Support_vector_machine) to predict a future price. In the video, I use scikit-learn to build an ML model, but for the challenge you'll use the [Keras](https://keras.io) library.
+This is the code for the Stock Price Prediction challenge for 'Learn Python for Data Science #3' by @Sirajology on [YouTube](https://youtu.be/SSu00IRRraY). The code uses the [scikit-learn](https://github.com/scikit-learn/scikit-learn) machine learning library to train a [support vector regression](https://en.wikipedia.org/wiki/Support_vector_machine) on a stock price dataset from [Google Finance](https://www.google.com/finance) to predict a future price. In the video, I use scikit-learn to build an ML model, but for the challenge you'll use the [Keras](https://keras.io) library.
 
 There are two scripts. `demo.py` is the code in the video and `challenge.py` is a template for the coding challenge you will complete.
 
