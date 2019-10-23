@@ -1,13 +1,13 @@
-#predicting_stock_prices
+# Predicting Stock Prices
 Stock Prediction Challenge by @Sirajology on [Youtube](https://youtu.be/SSu00IRRraY).
 
-##Overview
+## Overview
 
 This is the code for the Stock Price Prediction challenge for 'Learn Python for Data Science #3' by @Sirajology on [YouTube](https://youtu.be/SSu00IRRraY). The code uses the [scikit-learn](https://github.com/scikit-learn/scikit-learn) machine learning library to train a [support vector regression](https://en.wikipedia.org/wiki/Support_vector_machine) on a stock price dataset from [Google Finance](https://en.wikipedia.org/wiki/Support_vector_machine) to predict a future price. In the video, I use scikit-learn to build an ML model, but for the challenge you'll use the [Keras](https://keras.io) library.
 
 There are two scripts. `demo.py` is the code in the video and `challenge.py` is a template for the coding challenge you will complete.
 
-##Dependencies
+## Dependencies
 
 * numpy (http://www.numpy.org/)
 * tweepy (http://www.tweepy.org)
@@ -17,7 +17,7 @@ There are two scripts. `demo.py` is the code in the video and `challenge.py` is 
 
 Install missing dependencies using [pip](https://pip.pypa.io/en/stable/installing/)
 
-##Demo Usage
+## Demo Usage
 
 Once you have your dependencies installed via pip, run the demo script in terminal via
 
@@ -25,7 +25,7 @@ Once you have your dependencies installed via pip, run the demo script in termin
 python demo.py
 ```
 
-##Challenge 
+## Challenge 
 
 You'll find the challenge template in this repo labeled `challenge.py`. The instructions are 
 
@@ -36,6 +36,6 @@ You'll find the challenge template in this repo labeled `challenge.py`. The inst
 If you want to use your own template, that's fine too. Submit your code in the comments section and I'll announce the winner in
 the next video. Good luck!
 
-##Credits
+## Credits
 
 This code is 100% Siraj
